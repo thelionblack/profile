@@ -1,4 +1,10 @@
 {
-  "id": 1,
-  "title": "hello"
+  "ru": {
+    "name": "Сторожев Максим",
+    "lang": "Язык",
+  }
+  "en": {
+    "name": "Storazhau Maksim",
+    "lang": "Language",
+  }
 }
