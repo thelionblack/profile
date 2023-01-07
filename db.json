@@ -2,11 +2,13 @@
   "ru": {
     "name": "Сторожев Максим",
     "lang": "Язык",
-    "navigation": ["О себе", "Навыки", "Работы", "Контакты"]
+    "navigation": ["О себе", "Навыки", "Работы", "Контакты"],
+    "aboutMe": {"title": "О себе", "text": "asdas"}
   },
   "en": {
     "name": "Storazhau Maksim",
     "lang": "Language",
-    "navigation": ["About me", "Skills", "Projects", "Contacts"]
+    "navigation": ["About me", "Skills", "Projects", "Contacts"],
+    "aboutMe": {"title": "About me", "text": "asdas"}
   }
 }
