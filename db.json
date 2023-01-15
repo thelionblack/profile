@@ -2,6 +2,7 @@
   "ru": {
     "name": "Сторожев Максим",
     "lang": "Язык",
+    "photo": "https://github.com/thelionblack/profile/blob/main/photo_2023-01-07_17-50-41-PhotoRoom.png?raw=true",
     "navigation": ["О себе", "Навыки", "Работы", "Контакты"],
     "aboutMe": {"title": "О себе", "text": "Амбициозный веб-разработчик с 2 летним опытом, специализируюсь на HTML, CSS, JavaScript, TypeScript, React, Redux, Webpack. Свои работы делаю адаптивными, хорошо применяя как новые технологии такие как flex, grid так и старые float, table и блочная модель. Я могу заниматься самообразованием и использовать новые технологии в своей работе."},
     "skills": [
@@ -20,6 +21,7 @@
     "name": "Storazhau Maksim",
     "lang": "Language",
     "navigation": ["About me", "Skills", "Projects", "Contacts"],
+    "photo": "https://github.com/thelionblack/profile/blob/main/photo_2023-01-07_17-50-41-PhotoRoom.png?raw=true",
     "aboutMe": {"title": "About me", "text": "Ambitious web developer with 2 years experience specializing in HTML, CSS, JavaScript, TypeScript, React, Redux, Webpack. I make my work adaptive, well using both new technologies such as flex, grid and old float, table and block model. I can educate myself and use new technologies in my work."},
     "skills": [
       {"title": "HTML5 / CSS3", "description": "Semantic, cross-browser and adaptive code."},
