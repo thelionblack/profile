@@ -14,8 +14,8 @@
       {"title": "Git", "description": "Почти всегда использую GitHub или GitLub"},
       {"title": "React", "description": ""},
       {"title": "Redux", "description": ""},
-      {"title": "Typescript", "description": ""},
-    ],
+      {"title": "Typescript", "description": ""}
+    ]
   },
   "en": {
     "name": "Storazhau Maksim",
@@ -32,7 +32,7 @@
       {"title": "Git", "description": "I almost always use GitHub or GitLub"},
       {"title": "React", "description": ""},
       {"title": "Redux", "description": ""},
-      {"title": "Typescript", "description": ""},
-    ],
+      {"title": "Typescript", "description": ""}
+    ]
   }
 }
